@@ -6,10 +6,11 @@ This repository demonstrates my understanding of Data Structures, Algorithms, pr
 
 ## About This Project
 
-- Language: Java
-- IDE: Visual Studio Code
-- Platform: LeetCode
-- Purpose: Coding practice and portfolio development
+- **Language:** Java
+- **IDE:** Visual Studio Code
+- **Platform:** LeetCode
+- **Version Control:** Git and GitHub
+- **Purpose:** Coding practice and portfolio development
 
 ## Repository Structure
 
@@ -18,31 +19,39 @@ leetcode-solutions/
 │
 ├── arrays-strings/
 │   ├── 01-two-sum.java
+│   ├── 01-two-sum.md
+│   ├── 01-result.png
 │   ├── 02-reverse-string.java
+│   ├── 02-reverse-string.md
+│   ├── 02-result.png
 │   ├── 03-valid-anagram.java
+│   ├── 03-valid-anagram.md
+│   ├── 03-result.png
 │   ├── 04-best-time-to-buy-and-sell-stock.java
-│   └── 05-longest-common-prefix.java
+│   ├── 04-best-time-to-buy-and-sell-stock.md
+│   ├── 04-result.png
+│   ├── 05-longest-common-prefix.java
+│   ├── 05-longest-common-prefix.md
+│   └── 05-result.png
 │
 ├── basic-algorithms/
 │   ├── 06-binary-search.java
-│   └── 07-move-zeroes.java
+│   ├── 06-binary-search.md
+│   ├── 06-result.png
+│   ├── 07-move-zeroes.java
+│   ├── 07-move-zeroes.md
+│   └── 07-result.png
 │
 ├── stacks/
-│   └── 08-valid-parentheses.java
+│   ├── 08-valid-parentheses.java
+│   ├── 08-valid-parentheses.md
+│   └── 08-result.png
 │
 ├── linked-lists/
 │
 ├── README.md
 └── PROGRESS.md
 ```
-
-Each solution includes:
-- Java source code
-- Problem explanation
-- Approach
-- Time and space complexity
-- Local test cases
-- LeetCode submission screenshot
 
 ## Problems Solved
 
@@ -56,6 +65,15 @@ Each solution includes:
 | 06 | Binary Search | Algorithms | Accepted |
 | 07 | Move Zeroes | Arrays | Accepted |
 | 08 | Valid Parentheses | Stack | Accepted |
+
+## What Each Solution Includes
+
+- Java source code
+- Problem explanation
+- Approach and algorithm
+- Time and space complexity
+- Local test cases
+- LeetCode submission screenshot
 
 ## Technologies Used
 
