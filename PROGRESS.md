@@ -2,8 +2,9 @@
 
 **Author:** Silanjan Mukherjee  
 **Language:** Java  
-**Total Required Problems:** 8  
-**Completed:** 8/8
+**Required Problems:** 8  
+**Bonus Problems:** 1  
+**Total Completed:** 9
 
 ## Overall Progress
 
@@ -12,8 +13,8 @@
 | Arrays & Strings | 5 | 5 |
 | Basic Algorithms | 2 | 2 |
 | Stacks | 1 | 1 |
-| Linked Lists (Bonus) | 1 | 0 |
-| **Required Total** | **8** | **8** |
+| Linked Lists (Bonus) | 1 | 1 |
+| **Total** | **9** | **9** |
 
 ## Problem Checklist
 
@@ -28,25 +29,26 @@
 
 ## Bonus Problems
 
-- [ ] Reverse Linked List
+- [x] 09 – Reverse Linked List
 
 ## Completed Activities
 
 - [x] Created project folder structure
 - [x] Implemented all 8 required solutions in Java
+- [x] Completed bonus Reverse Linked List
 - [x] Tested solutions locally
-- [x] Submitted all 8 problems on LeetCode
+- [x] Submitted all 9 problems on LeetCode
 - [x] Saved Accepted screenshots
 - [x] Created individual problem documentation
 - [x] Created README.md
 - [x] Created PROGRESS.md
+- [x] Initialized Git repository
+- [x] Created first Git commit
+- [x] Uploaded project to GitHub
 
-## Upcoming Activities
+## Remaining Activities
 
-- [ ] Complete bonus Reverse Linked List
-- [ ] Review all project files
-- [ ] Initialize Git repository
-- [ ] Commit and push solutions to GitHub
+- [ ] Upload bonus solution and updated progress tracker to GitHub
 - [ ] Add GitHub repository link to assignment submission
 
 ---
